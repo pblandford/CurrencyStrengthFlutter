@@ -1,0 +1,8 @@
+{
+  "charts": "Charts",
+  "alerts": "Alerts",
+  "createAlert" : "Create a new alert",
+  "ok" : "OK",
+  "cancel" : "Cancel",
+  "deleteConfirm" : "Really delete alert?"
+}

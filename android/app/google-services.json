@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "490729319591",
+    "firebase_url": "https://ktorserver-5528b.firebaseio.com",
+    "project_id": "ktorserver-5528b",
+    "storage_bucket": "ktorserver-5528b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490729319591:android:858d7b75d7b799e671ff82",
+        "android_client_info": {
+          "package_name": "com.example.fluttersandpit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490729319591-4k37d4bbq2r1oaelgcl3u6b5loe5ri0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMZ1dKVFzOrySsV_1Mbpn-9gWNyHXntM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490729319591-4k37d4bbq2r1oaelgcl3u6b5loe5ri0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490729319591-vr59uv0j2qr6gd1nqs4oa1p8u8m5e4c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.philblandford.currencystrengthindex"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490729319591:android:e3de651bfdc249ab",
+        "android_client_info": {
+          "package_name": "org.philblandford.currencystrengthindex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490729319591-4k37d4bbq2r1oaelgcl3u6b5loe5ri0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMZ1dKVFzOrySsV_1Mbpn-9gWNyHXntM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490729319591-4k37d4bbq2r1oaelgcl3u6b5loe5ri0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490729319591-vr59uv0j2qr6gd1nqs4oa1p8u8m5e4c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.philblandford.currencystrengthindex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+{
+  "charts": "Siartiau",
+  "alerts": "Rhybuddion",
+  "createAlert" : "Creu rhybudd newydd",
+    "ok" : "OK",
+    "cancel" : "Canslo",
+    "deleteConfirm" : "Dileu rhybudd mewn gwirionedd?"
+}
