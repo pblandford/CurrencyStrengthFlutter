@@ -81,7 +81,7 @@ extension GetColor on Currency {
       case Currency.AUD:
         return Colors.blue;
       case Currency.NZD:
-        return Colors.yellow;
+        return Colors.grey;
       case Currency.GBP:
         return Colors.red;
       case Currency.EUR:
@@ -89,9 +89,9 @@ extension GetColor on Currency {
       case Currency.JPY:
         return Colors.white;
       case Currency.CHF:
-        return Colors.purpleAccent;
+        return Colors.yellow;
       case Currency.CAD:
-        return Colors.cyan;
+        return Colors.purpleAccent;
       default:
         return Colors.black;
     }
